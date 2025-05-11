@@ -1,1 +1,4 @@
-# Project-3
+# Towards a quantum field theory description of nonlocal spacetime defects
+We propose an ansatz for encoding the physics of nonlocal spacetime defects in the Green's functions for a scalar field theory defined on a causal set. This allows us to numerically study the effects of nonlocal spacetime defects on the discrete Feynman propagator of the theory defined on the causal set in 1+1 dimensions, and to compare to the defect-free limit. The latter approaches the expected continuum result, on average, when the number of points becomes large. When defects are present, two points with the same invariant spacetime interval can have different propagation amplitudes, depending on whether the propagation is between two ordinary spacetime points, two defects, or a defect and an ordinary point. We show that a coarse-grained description that is only sensitive to the average effect of the defects can be interpreted as a defect-induced mass and wave-function renormalization of the scalar theory. A PDF of the arXiv publication is provided in the repository.
+# File 1:
+description of file 1.
